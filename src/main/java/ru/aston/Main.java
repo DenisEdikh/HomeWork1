@@ -1,7 +1,8 @@
 package ru.aston;
 
-import java.util.Comparator;
-import java.util.List;
+import ru.aston.model.User;
+import ru.aston.util.Algorithms;
+import ru.aston.util.CustomArrayList;
 
 public class Main {
     public static void main(String[] args) {

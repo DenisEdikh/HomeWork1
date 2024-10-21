@@ -1,4 +1,4 @@
-package ru.aston;
+package ru.aston.model;
 
 public class User implements Comparable<User> {
     private String name;
